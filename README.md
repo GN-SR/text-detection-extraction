@@ -13,6 +13,7 @@ Before running the program, you need to install the following packages:
 ```sh
 pip install opencv-python
 pip install pytesseract
+```sh
 
 Additionally, you need to download and install the Tesseract-OCR executable. You can download it from this link-https://github.com/tesseract-ocr/tesseract
 
