@@ -14,6 +14,6 @@ You need to download and install the Tesseract-OCR executable. You can download 
 ```sh
 pip install opencv-python
 pip install pytesseract
-
-
+```
+gua
 
