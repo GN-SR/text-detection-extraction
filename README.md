@@ -1,2 +1,6 @@
-# text-detection-extraction
-This project uses OpenCV and Tesseract-OCR to detect and extract text from images. It processes images to identify text regions, extracts the text, and saves it to a file. This tool is useful for digitizing printed documents and extracting information from images efficiently.
+##Text Detection and Extraction using OpenCV and OCR
+
+This project demonstrates how to use OpenCV and Tesseract-OCR to detect and extract text from images. OpenCV is used for image processing, and Tesseract-OCR is employed to recognize and extract text from the processed images.
+
+Required Installations
+Before running the program, you need to install the following packages:
