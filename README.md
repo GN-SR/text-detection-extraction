@@ -10,10 +10,10 @@ This project uses OpenCV and Tesseract-OCR to detect and extract text from image
 
 Before running the program, you need to install the following packages:
 
+You need to download and install the Tesseract-OCR executable. You can download it from this link-https://github.com/tesseract-ocr/tesseract
 ```sh
 pip install opencv-python
 pip install pytesseract
-```sh
 
-Additionally, you need to download and install the Tesseract-OCR executable. You can download it from this link-https://github.com/tesseract-ocr/tesseract
+
 
